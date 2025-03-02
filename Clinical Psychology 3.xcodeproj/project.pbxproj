@@ -14,11 +14,13 @@
 		5B3041052D74EE830022C32C /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3041042D74EE830022C32C /* FirebaseFirestore */; };
 		5B3041072D74EE830022C32C /* FirebaseRemoteConfig in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3041062D74EE830022C32C /* FirebaseRemoteConfig */; };
 		5B3041092D74EE830022C32C /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3041082D74EE830022C32C /* FirebaseStorage */; };
+		5B3042182D74F8FD0022C32C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B3042172D74F8FD0022C32C /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5B3040E92D74EC9B0022C32C /* Clinical Psychology 3-A.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clinical Psychology 3-A.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B30411E2D74F2D50022C32C /* 3A_info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = 3A_info.plist; sourceTree = "<group>"; };
+		5B3042172D74F8FD0022C32C /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -51,6 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				5B30411E2D74F2D50022C32C /* 3A_info.plist */,
+				5B3042172D74F8FD0022C32C /* GoogleService-Info.plist */,
 				5B3040EB2D74EC9B0022C32C /* Clinical Psychology */,
 				5B3040EA2D74EC9B0022C32C /* Products */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B3042182D74F8FD0022C32C /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,12 +282,12 @@
 				CODE_SIGN_ENTITLEMENTS = "Clinical Psychology/Clinical_Psychology_3.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "Clinical\\ Psychology/Preview\\ Content";
+				DEVELOPMENT_ASSET_PATHS = "\"Clinical Psychology/Resources/Preview Content\"";
 				DEVELOPMENT_TEAM = 62788MV7K6;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "3A_info.plist";
+				INFOPLIST_FILE = 3A_info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Grup 3A";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -322,12 +326,12 @@
 				CODE_SIGN_ENTITLEMENTS = "Clinical Psychology/Clinical_Psychology_3.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "Clinical\\ Psychology/Preview\\ Content";
+				DEVELOPMENT_ASSET_PATHS = "\"Clinical Psychology/Resources/Preview Content\"";
 				DEVELOPMENT_TEAM = 62788MV7K6;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "3A_info.plist";
+				INFOPLIST_FILE = 3A_info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Grup 3A";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

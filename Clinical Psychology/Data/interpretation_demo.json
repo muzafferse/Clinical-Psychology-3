@@ -1,0 +1,37 @@
+[
+    {
+        "questionDescription": "İşten çıkıp eve gitmek için arabanıza biniyorsunuz. Arabayı çalıştırdığınızda benzin uyarı ışığı yanıyor. Benzin istasyonuna geldiğinizde…",
+        "firstQuestion": "çok kal_balık olduğunu görüyorsunuz.",
+        "firstQuestionAnswer": "a",
+        "secondQuestion": "Benzin istasyonu tenha mıydı?",
+        "secondQuestionAnswer": "HAYIR"
+    },
+    {
+        "questionDescription": "Uçakta koltuk numaranızı bulmaya çalışırken sizin koltuğunuzda başka birinin oturduğunu görüyorsunuz. Oturan kişiye durumu anlatınca…",
+        "firstQuestion": "sizden öz_r diliyor.",
+        "firstQuestionAnswer": "ü",
+        "secondQuestion": "Sizin koltuğunuzda başka biri mi oturuyordu?",
+        "secondQuestionAnswer": "EVET"
+    },
+    {
+        "questionDescription": "Mutfakta bir şeyler hazırlarken apartmandan bazı seslerin geldiğini duyuyorsunuz. Kapı deliğinden baktığınızda karşı daireye yeni birilerinin taşındığını görüyorsunuz ve…",
+        "firstQuestion": "onlara k_rabiye ikram ediyorsunuz.",
+        "firstQuestionAnswer": "u",
+        "secondQuestion": "Yeni komşularınıza kek mi ikram ettiniz?",
+        "secondQuestionAnswer": "HAYIR"
+    },
+    {
+        "questionDescription": "Sahil kenarında koşu yaparken uzun zamandır görüşmediğiniz bir arkadaşınıza rastlıyorsunuz. Arkadaşınızla bir süre ayaküstü sohbet ettikten sonra…",
+        "firstQuestion": "onu k_hve içmeye davet ediyorsunuz.",
+        "firstQuestionAnswer": "a",
+        "secondQuestion": "Arkadaşınızı kahve içmeye mi davet ettiniz?",
+        "secondQuestionAnswer": "EVET"
+    },
+    {
+        "questionDescription": "Film izlerken elektrikler kesiliyor. Birkaç tane mum yakıyorsunuz ve kitap okumaya başlıyorsunuz. Elektrikler yeniden geldiğinde…",
+        "firstQuestion": "k_tap okumaya devam ediyorsunuz.",
+        "firstQuestionAnswer": "i",
+        "secondQuestion": "Film izlemeye devam mı ettiniz?",
+        "secondQuestionAnswer": "HAYIR"
+    }
+]

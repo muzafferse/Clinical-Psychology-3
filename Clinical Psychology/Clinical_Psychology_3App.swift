@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct Clinical_Psychology_3App: App {
+    @UIApplicationDelegateAdaptor(AppCoordinator.self) var appCoordinator
+    @StateObject private var appState = AppState()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppView()
+                .environmentObject(appState)
         }
     }
 }
