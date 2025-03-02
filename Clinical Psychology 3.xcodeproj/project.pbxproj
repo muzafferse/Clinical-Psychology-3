@@ -6,8 +6,18 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		5B3040FD2D74EE830022C32C /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3040FC2D74EE830022C32C /* FirebaseAnalytics */; };
+		5B3040FF2D74EE830022C32C /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3040FE2D74EE830022C32C /* FirebaseAuth */; };
+		5B3041012D74EE830022C32C /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3041002D74EE830022C32C /* FirebaseCrashlytics */; };
+		5B3041032D74EE830022C32C /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3041022D74EE830022C32C /* FirebaseDatabase */; };
+		5B3041052D74EE830022C32C /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3041042D74EE830022C32C /* FirebaseFirestore */; };
+		5B3041072D74EE830022C32C /* FirebaseRemoteConfig in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3041062D74EE830022C32C /* FirebaseRemoteConfig */; };
+		5B3041092D74EE830022C32C /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3041082D74EE830022C32C /* FirebaseStorage */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
-		5B3040E92D74EC9B0022C32C /* Clinical Psychology 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clinical Psychology 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5B3040E92D74EC9B0022C32C /* Clinical Psychology 3-A.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clinical Psychology 3-A.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -23,6 +33,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B3041012D74EE830022C32C /* FirebaseCrashlytics in Frameworks */,
+				5B3040FD2D74EE830022C32C /* FirebaseAnalytics in Frameworks */,
+				5B3041032D74EE830022C32C /* FirebaseDatabase in Frameworks */,
+				5B3041072D74EE830022C32C /* FirebaseRemoteConfig in Frameworks */,
+				5B3041092D74EE830022C32C /* FirebaseStorage in Frameworks */,
+				5B3041052D74EE830022C32C /* FirebaseFirestore in Frameworks */,
+				5B3040FF2D74EE830022C32C /* FirebaseAuth in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,7 +57,7 @@
 		5B3040EA2D74EC9B0022C32C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5B3040E92D74EC9B0022C32C /* Clinical Psychology 3.app */,
+				5B3040E92D74EC9B0022C32C /* Clinical Psychology 3-A.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5B3040E82D74EC9B0022C32C /* Clinical Psychology 3 */ = {
+		5B3040E82D74EC9B0022C32C /* Clinical Psychology 3-A */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5B3040F82D74EC9C0022C32C /* Build configuration list for PBXNativeTarget "Clinical Psychology 3" */;
+			buildConfigurationList = 5B3040F82D74EC9C0022C32C /* Build configuration list for PBXNativeTarget "Clinical Psychology 3-A" */;
 			buildPhases = (
 				5B3040E52D74EC9B0022C32C /* Sources */,
 				5B3040E62D74EC9B0022C32C /* Frameworks */,
@@ -63,11 +80,18 @@
 			fileSystemSynchronizedGroups = (
 				5B3040EB2D74EC9B0022C32C /* Clinical Psychology 3 */,
 			);
-			name = "Clinical Psychology 3";
+			name = "Clinical Psychology 3-A";
 			packageProductDependencies = (
+				5B3040FC2D74EE830022C32C /* FirebaseAnalytics */,
+				5B3040FE2D74EE830022C32C /* FirebaseAuth */,
+				5B3041002D74EE830022C32C /* FirebaseCrashlytics */,
+				5B3041022D74EE830022C32C /* FirebaseDatabase */,
+				5B3041042D74EE830022C32C /* FirebaseFirestore */,
+				5B3041062D74EE830022C32C /* FirebaseRemoteConfig */,
+				5B3041082D74EE830022C32C /* FirebaseStorage */,
 			);
 			productName = "Clinical Psychology 3";
-			productReference = 5B3040E92D74EC9B0022C32C /* Clinical Psychology 3.app */;
+			productReference = 5B3040E92D74EC9B0022C32C /* Clinical Psychology 3-A.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -94,12 +118,15 @@
 			);
 			mainGroup = 5B3040E02D74EC9B0022C32C;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				5B3040FB2D74EE830022C32C /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 5B3040EA2D74EC9B0022C32C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5B3040E82D74EC9B0022C32C /* Clinical Psychology 3 */,
+				5B3040E82D74EC9B0022C32C /* Clinical Psychology 3-A */,
 			);
 		};
 /* End PBXProject section */
@@ -252,6 +279,8 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Grup 3A";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -260,20 +289,21 @@
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "muzafferse.Clinical-Psychology-3";
+				PRODUCT_BUNDLE_IDENTIFIER = "muzafferse.Clinical-Psychology-3-A";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = 1;
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Debug;
@@ -291,6 +321,8 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Grup 3A";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -299,20 +331,21 @@
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "muzafferse.Clinical-Psychology-3";
+				PRODUCT_BUNDLE_IDENTIFIER = "muzafferse.Clinical-Psychology-3-A";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = 1;
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Release;
@@ -329,7 +362,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5B3040F82D74EC9C0022C32C /* Build configuration list for PBXNativeTarget "Clinical Psychology 3" */ = {
+		5B3040F82D74EC9C0022C32C /* Build configuration list for PBXNativeTarget "Clinical Psychology 3-A" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5B3040F92D74EC9C0022C32C /* Debug */,
@@ -339,6 +372,55 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		5B3040FB2D74EE830022C32C /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 11.9.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		5B3040FC2D74EE830022C32C /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5B3040FB2D74EE830022C32C /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		5B3040FE2D74EE830022C32C /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5B3040FB2D74EE830022C32C /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		5B3041002D74EE830022C32C /* FirebaseCrashlytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5B3040FB2D74EE830022C32C /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCrashlytics;
+		};
+		5B3041022D74EE830022C32C /* FirebaseDatabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5B3040FB2D74EE830022C32C /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseDatabase;
+		};
+		5B3041042D74EE830022C32C /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5B3040FB2D74EE830022C32C /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		5B3041062D74EE830022C32C /* FirebaseRemoteConfig */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5B3040FB2D74EE830022C32C /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseRemoteConfig;
+		};
+		5B3041082D74EE830022C32C /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5B3040FB2D74EE830022C32C /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 5B3040E12D74EC9B0022C32C /* Project object */;
 }
