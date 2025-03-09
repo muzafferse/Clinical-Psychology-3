@@ -234,7 +234,7 @@
 		5B17F8922D7E2A880085BD25 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon3B;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "Clinical Psychology/Clinical_Psychology_3.entitlements";
 				CODE_SIGN_STYLE = Automatic;
@@ -277,7 +277,7 @@
 		5B17F8932D7E2A880085BD25 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon3B;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "Clinical Psychology/Clinical_Psychology_3.entitlements";
 				CODE_SIGN_STYLE = Automatic;
