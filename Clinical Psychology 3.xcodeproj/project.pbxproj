@@ -15,7 +15,6 @@
 		5B17F88D2D7E2A880085BD25 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 5B17F8832D7E2A880085BD25 /* FirebaseFirestore */; };
 		5B17F88E2D7E2A880085BD25 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 5B17F8802D7E2A880085BD25 /* FirebaseAuth */; };
 		5B17F8902D7E2A880085BD25 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B3042172D74F8FD0022C32C /* GoogleService-Info.plist */; };
-		5B17F8FC2D7E2B740085BD25 /* Clinical Psychology 3-A copy-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B17F8952D7E2A880085BD25 /* Clinical Psychology 3-A copy-Info.plist */; };
 		5B3040FD2D74EE830022C32C /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3040FC2D74EE830022C32C /* FirebaseAnalytics */; };
 		5B3040FF2D74EE830022C32C /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3040FE2D74EE830022C32C /* FirebaseAuth */; };
 		5B3041012D74EE830022C32C /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = 5B3041002D74EE830022C32C /* FirebaseCrashlytics */; };
@@ -28,7 +27,7 @@
 
 /* Begin PBXFileReference section */
 		5B17F8942D7E2A880085BD25 /* Clinical Psychology 3-B.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clinical Psychology 3-B.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5B17F8952D7E2A880085BD25 /* Clinical Psychology 3-A copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Clinical Psychology 3-A copy-Info.plist"; path = "/Users/muzaffersevili/Desktop/Finish Projects/Clinical Psychology 3/Clinical Psychology 3-A copy-Info.plist"; sourceTree = "<absolute>"; };
+		5B17F8952D7E2A880085BD25 /* 3B_info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = 3B_info.plist; path = "/Users/muzaffersevili/Desktop/Finish Projects/Clinical Psychology 3/3B_info.plist"; sourceTree = "<absolute>"; };
 		5B3040E92D74EC9B0022C32C /* Clinical Psychology 3-A.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clinical Psychology 3-A.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B30411E2D74F2D50022C32C /* 3A_info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = 3A_info.plist; sourceTree = "<group>"; };
 		5B3042172D74F8FD0022C32C /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
@@ -80,7 +79,7 @@
 				5B30411E2D74F2D50022C32C /* 3A_info.plist */,
 				5B3042172D74F8FD0022C32C /* GoogleService-Info.plist */,
 				5B3040EB2D74EC9B0022C32C /* Clinical Psychology */,
-				5B17F8952D7E2A880085BD25 /* Clinical Psychology 3-A copy-Info.plist */,
+				5B17F8952D7E2A880085BD25 /* 3B_info.plist */,
 				5B3040EA2D74EC9B0022C32C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -199,7 +198,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				5B17F8902D7E2A880085BD25 /* GoogleService-Info.plist in Resources */,
-				5B17F8FC2D7E2B740085BD25 /* Clinical Psychology 3-A copy-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,7 +242,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Clinical Psychology 3-A copy-Info.plist";
+				INFOPLIST_FILE = 3B_info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Grup 3B";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -287,7 +285,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Clinical Psychology 3-A copy-Info.plist";
+				INFOPLIST_FILE = 3B_info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Grup 3B";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
