@@ -30,11 +30,11 @@ struct LaunchView: View {
     }
     
     private var splashImage: ImageResource {
-        #if CLINIC1A
+        #if CLINIC3A
         .splash
-#else
+        #elseif CLINIC3B
         .splash1B
-#endif
+        #endif
     }
 }
 

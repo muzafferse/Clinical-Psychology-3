@@ -28,7 +28,7 @@ struct HomeTabView: View {
                                 appState.testStatus = .cautionTest
                             })
                             .onDisappear(perform: {
-                                #if CLINIC1A
+                                #if CLINIC3A
                                 appState.testStatus = .interpretationTest
                                 #elseif CLINIC1B
                                 appState.testStatus = .none
@@ -40,7 +40,7 @@ struct HomeTabView: View {
                                 appState.testStatus = .interpretationTest
                             })
                             .onDisappear(perform: {
-                                #if CLINIC1A
+                                #if CLINIC3A
                                 appState.testStatus = .none
                                 #elseif CLINIC1B
                                 appState.testStatus = .cautionTest

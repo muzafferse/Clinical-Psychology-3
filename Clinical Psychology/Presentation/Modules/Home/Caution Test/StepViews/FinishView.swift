@@ -22,9 +22,9 @@ struct FinishView: View {
             Spacer()
             
             Button(action: {
-                #if CLINIC1A
+                #if CLINIC3A
                 self.appState.homeNavigation.append(HomeNavDestination.interpretationTest)
-                #elseif CLINIC1B
+                #elseif CLINIC3B
                 SessionManager.shared.saveSessionData()
                 appState.homeNavigation = .init()
                 #endif

@@ -17,10 +17,10 @@ class SessionManager: ObservableObject {
     static let shared = SessionManager()
     
     private var dbName: String {
-        #if CLINIC1A
-        return "1A"
-        #else
-        return "1B"
+        #if CLINIC3A
+        return "3A"
+        #elseif CLINIC3B
+        return "3B"
         #endif
     }
     var nickName: String = AppStrings.guestUser
@@ -143,12 +143,12 @@ extension SessionManager {
     
     private func createSessionValue(caution: [[String : Any]],
                                     interpretation: [[String : Any]]) -> [String: Any] {
-        #if CLINIC1A
+        #if CLINIC3A
         return [
             "a. Dikkat Yanlılığı": caution,
             "b. Yorumlama Yanlılığı": interpretation
         ]
-        #else
+        #elseif CLINIC3B
         return [
             "a. Yorumlama Yanlılığı": interpretation,
             "b. Dikkat Yanlılığı": caution
