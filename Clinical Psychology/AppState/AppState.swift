@@ -1,6 +1,6 @@
 //
 //  AppState.swift
-//  Clinical Psychology 3-A
+//  Clinical Psychology 3
 //
 //  Created by Muzaffer Sevili on 2.03.2025.
 //

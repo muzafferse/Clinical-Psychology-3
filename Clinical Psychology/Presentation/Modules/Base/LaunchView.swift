@@ -1,6 +1,6 @@
 //
 //  LaunchView.swift
-//  Clinical Psychology 1
+//  Clinical Psychology 3
 //
 //  Created by Muzaffer Sevili on 25.01.2025.
 //

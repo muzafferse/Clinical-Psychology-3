@@ -1,6 +1,6 @@
 //
 //  ITDemoFirstQuestionView.swift
-//  Clinical Psychology 1
+//  Clinical Psychology 3
 //
 //  Created by Muzaffer Sevili on 16.02.2025.
 //
