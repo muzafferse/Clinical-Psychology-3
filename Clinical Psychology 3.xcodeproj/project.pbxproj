@@ -27,7 +27,7 @@
 
 /* Begin PBXFileReference section */
 		5B17F8942D7E2A880085BD25 /* Clinical Psychology 3-B.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clinical Psychology 3-B.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5B17F8952D7E2A880085BD25 /* 3B_info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = 3B_info.plist; path = "/Users/muzaffersevili/Desktop/Finish Projects/Clinical Psychology 3/3B_info.plist"; sourceTree = "<absolute>"; };
+		5B17F8952D7E2A880085BD25 /* 3B_info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = 3B_info.plist; sourceTree = "<group>"; };
 		5B3040E92D74EC9B0022C32C /* Clinical Psychology 3-A.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clinical Psychology 3-A.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B30411E2D74F2D50022C32C /* 3A_info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = 3A_info.plist; sourceTree = "<group>"; };
 		5B3042172D74F8FD0022C32C /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
@@ -77,9 +77,9 @@
 			isa = PBXGroup;
 			children = (
 				5B30411E2D74F2D50022C32C /* 3A_info.plist */,
+				5B17F8952D7E2A880085BD25 /* 3B_info.plist */,
 				5B3042172D74F8FD0022C32C /* GoogleService-Info.plist */,
 				5B3040EB2D74EC9B0022C32C /* Clinical Psychology */,
-				5B17F8952D7E2A880085BD25 /* 3B_info.plist */,
 				5B3040EA2D74EC9B0022C32C /* Products */,
 			);
 			sourceTree = "<group>";
