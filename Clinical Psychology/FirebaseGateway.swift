@@ -19,6 +19,5 @@ public final class FirebaseGateway {
         let options = FirebaseOptions(contentsOfFile: filePath) {
             FirebaseApp.configure(options: options)
         }
-        
     }
 }
