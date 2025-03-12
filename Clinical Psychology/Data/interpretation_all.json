@@ -3,66 +3,66 @@
         "category": "Abartılı Tehdit Algısı",
         "questions": [
             {
-                "questionDescription": "Anaokulunda gönüllü olarak çalışıyorsunuz. Birkaç çocuğun hafif soğuk algınlığı var. Diğer gönüllülerden bazıları, en az saatte bir kez ellerini yıkıyorlar. Bunun…",
-                "firstQuestion": "aş_rı olduğunu düşünüyorsunuz.",
-                "firstQuestionAnswer": "ı",
-                "secondQuestion": "Tekrarlı bir şekilde el yıkamanın gerekli olduğunu mu düşünüyorsunuz?",
+                "questionDescription": "Anaokulunda gönüllü olarak çalışıyorsunuz. Birkaç çocuğun hafif soğuk algınlığı var. Diğer gönüllülerden bazıları, en az saatte bir kez ellerini yıkıyorlar. O sırada gönüllü arkadaşlarınızdan biri size sesleniyor ve…",
+                "firstQuestion": "öğle arasında sizi d_ndurma yemeğe davet ediyor.",
+                "firstQuestionAnswer": "o",
+                "secondQuestion": "Arkadaşınız sizi kahve içmeye mi davet etti?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
                 "questionDescription": "Tatil için evden ayrılıyorsunuz. Evinizdeki tüm cihazların kapalı olduğunu iki kere kontrol etmeden evden çıkıyorsunuz. Kapıyı kapattığınızda…",
-                "firstQuestion": "h_zurlu hissediyorsunuz.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Tatile giderken sakin hissediyor musunuz?",
-                "secondQuestionAnswer": "EVET"
-            },
-            {
-                "questionDescription": "Yurtdışına uçakla seyahat ediyorsunuz. Birdenbire pilot türbülans nedeniyle tüm yolcuların kemerlerini takmaları gerektiğini anons ediyor. Uçağın düşme ihtimalinin…",
-                "firstQuestion": "düş_k olduğununu düşünüyorsunuz.",
-                "firstQuestionAnswer": "ü",
-                "secondQuestion": "Uçağın düşme ihtimalinin yüksek olduğunu mu düşünüyorsunuz?",
-                "secondQuestionAnswer": "HAYIR"
-            },
-            {
-                "questionDescription": "Kan bankasına kan bağışlamaya karar veriyorsunuz. Kan vereceğiniz odanın etrafına bakıyorsunuz ve kalabalık olduğunu fark ediyorsunuz. Burada kan vermenin…",
-                "firstQuestion": "güv_nli olduğuna karar veriyorsunuz.",
-                "firstQuestionAnswer": "e",
-                "secondQuestion": "Kan bankası zararsız mı?",
-                "secondQuestionAnswer": "EVET"
-            },
-            {
-                "questionDescription": "Bir arkadaşınızın çocuğuna bakıyorsunuz. Baktığınız çocuk farklı bir mahalledeki parka gitmek istiyor. Sizin hayatınızda, böyle sıradan değişiklik…",
-                "firstQuestion": "güv_nlidir.",
-                "firstQuestionAnswer": "e",
-                "secondQuestion": "Bu deneyim tehlikeli mi?",
-                "secondQuestionAnswer": "HAYIR"
-            },
-            {
-                "questionDescription": "Arabanıza binip dikiz aynasını ayarladınız. Arabanızla yola çıktığınızda, kaza geçirmeyeceğinizden emin olmak için ek önlemler almadığınızı fark ettiniz. Kazara arabanızı çarpma ihtimaliniz…",
-                "firstQuestion": "d_şüktür.",
-                "firstQuestionAnswer": "ü",
-                "secondQuestion": "Kazara arabanızı çarpma ihtimaliniz düşük müdür?",
-                "secondQuestionAnswer": "EVET"
-            },
-            {
-                "questionDescription": "Bir arkadaşınızı ziyaret etmek için hastaneye gittiniz. Arkanızdaki biri öksürüyor. Elinizi yıkasanız da, hasta olma ihtimaliniz…",
-                "firstQuestion": "d_şüktür.",
-                "firstQuestionAnswer": "ü",
-                "secondQuestion": "Hasta olma ihtimaliniz yüksek midir?",
-                "secondQuestionAnswer": "HAYIR"
-            },
-            {
-                "questionDescription": "Bir akşam yemeğine ev sahipliği yapıyorsunuz. Yemeği hazırlamadan önce ellerinizi çabucak yıkıyorsunuz. Böylelikle…",
-                "firstQuestion": "dikk_tli davranmış oluyorsunuz.",
+                "firstQuestion": "k_rşı komşunuzun da evde çıktığını görüyorsunuz.",
                 "firstQuestionAnswer": "a",
-                "secondQuestion": "Siz dikkatli biri misiniz?",
+                "secondQuestion": "Evden tatile gitmek için mi ayrılıyorsunuz?",
                 "secondQuestionAnswer": "EVET"
             },
             {
-                "questionDescription": "Bir hastanede gönüllü çalışıyorsunuz. Doktorlardan biri sizden kullanılmış birkaç iğneyi başka bir birime götürmenizi istiyor. Kullanılmış iğnelerden kazara bir hastalık yayılma ihtimali…",
-                "firstQuestion": "d_şüktür.",
-                "firstQuestionAnswer": "ü",
-                "secondQuestion": "Bir hastalığın yayılmasına neden olma ihtimaliniz yüksek mi?",
+                "questionDescription": "Yurtdışına uçakla seyahat ediyorsunuz. Birdenbire pilot türbülans nedeniyle tüm yolcuların kemerlerini takmaları gerektiğini anons ediyor. Koridorun en sonuna baktığınızda…",
+                "firstQuestion": "t_valet sırası olduğunu görüyorsunuz.",
+                "firstQuestionAnswer": "u",
+                "secondQuestion": "Uçakla yurtiçinde bir yere mi gidiyorsunuz?",
+                "secondQuestionAnswer": "HAYIR"
+            },
+            {
+                "questionDescription": "Kan bankasına kan bağışlamaya karar veriyorsunuz. Kan vereceğiniz odanın etrafına bakıyorsunuz ve kalabalık olduğunu fark ediyorsunuz. Kan verirken…",
+                "firstQuestion": "k_mşunuzla karşılaşıyorsunuz.",
+                "firstQuestionAnswer": "o",
+                "secondQuestion": "Komşunuzla mı karşılaştınız?",
+                "secondQuestionAnswer": "EVET"
+            },
+            {
+                "questionDescription": "Bir arkadaşınızın çocuğuna bakıyorsunuz. Baktığınız çocuk farklı bir mahalledeki parka gitmek istiyor. Parka giderken…",
+                "firstQuestion": "k_tapçıya da uğruyorsunuz.",
+                "firstQuestionAnswer": "i",
+                "secondQuestion": "Markete mi uğradınız?",
+                "secondQuestionAnswer": "HAYIR"
+            },
+            {
+                "questionDescription": "Arabanıza binip dikiz aynasını ayarladınız. Arabanızla yola çıktığınızda, kaza geçirmeyeceğinizden emin olmak için ek önlemler almadığınızı fark ediyorsunuz. O sırada telefonunuz çalıyor ve…",
+                "firstQuestion": "yak_n arkadaşınızın sizi aradığını görüyorsunuz.",
+                "firstQuestionAnswer": "ı",
+                "secondQuestion": "Sizi yakın arkadaşınız mı aradı?",
+                "secondQuestionAnswer": "EVET"
+            },
+            {
+                "questionDescription": "Bir arkadaşınızı ziyaret etmek için hastaneye gittiniz. Arkanızdaki biri öksürüyor. Arkanızı dönüp baktığınızda başka bir hasta yakını…",
+                "firstQuestion": "size k_ntinin nerede olduğunu soruyor.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "Arkadaşınızı iş yerinde mi ziyaret ediyorsunuz?",
+                "secondQuestionAnswer": "HAYIR"
+            },
+            {
+                "questionDescription": "Bir akşam yemeğine ev sahipliği yapıyorsunuz. Yemeği hazırlamadan önce ellerinizi çabucak yıkıyorsunuz ve…",
+                "firstQuestion": "s_ğanları doğramaya başlıyorsunuz.",
+                "firstQuestionAnswer": "o",
+                "secondQuestion": "Akşam yemeği mi hazırlıyorsunuz?",
+                "secondQuestionAnswer": "EVET"
+            },
+            {
+                "questionDescription": "Bir hastanede gönüllü çalışıyorsunuz. Doktorlardan biri sizden kullanılmış birkaç iğneyi başka bir birime götürmenizi istiyor. İğneleri taşırken…",
+                "firstQuestion": "bugün s_atinizi takmadığınızı fark ediyorsunuz.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "İğneleri götürmenizi hemşire mi söyledi?",
                 "secondQuestionAnswer": "HAYIR"
             }
         ]
@@ -71,66 +71,66 @@
         "category": "Abartılı Sorumluluk",
         "questions": [
             {
-                "questionDescription": "Sizden şirketinizdeki çalışanlar için bir sağlık hizmeti planı seçmeniz isteniyor. Planların maliyet ve faydalarını değerlendiriyorsunuz. Kararınızın tüm olumsuz sonuçlarından herkesi koruyabilmeniz…",
-                "firstQuestion": "imk_nsızdır.",
+                "questionDescription": "Sizden şirketinizdeki çalışanlar için bir sağlık hizmeti planı seçmeniz isteniyor. Planların maliyet ve faydalarını değerlendiriyorsunuz. Seçtiğiniz sağlık hizmeti planını…",
+                "firstQuestion": "on_ylaması için müdürünüze götürüyorsunuz.",
                 "firstQuestionAnswer": "a",
-                "secondQuestion": "Herkesin tüm olumsuz sonuçlardan korunduğundan emin olmak imkansız mı?",
+                "secondQuestion": "Bir sağlık hizmeti planı seçtiniz mi?",
                 "secondQuestionAnswer": "EVET"
             },
             {
-                "questionDescription": "En iyi arkadaşınız denizaşırı bir yolculuk yapıyor. Onun güvenliği için endişe ediyorsunuz ama gitmesini engellemiyorsunuz. Eğer bir facia yaşanırsa…",
-                "firstQuestion": "siz s_çsuzsunuzdur.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Eğer bir felakete karşı uyarıda bulunmazsanız, bundan siz mi sorumlusunuzdur?",
+                "questionDescription": "En iyi arkadaşınız denizaşırı bir yolculuk yapıyor. Onun güvenliği için endişe ediyorsunuz ama gitmesini engellemiyorsunuz. Arkadaşınız seyahati sırasında…",
+                "firstQuestion": "size g_zdiği yerlerin fotoğraflarını gönderiyor.",
+                "firstQuestionAnswer": "e",
+                "secondQuestion": "Arkadaşınız size yemek fotoğrafları mı gönderiyor?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
-                "questionDescription": "On kişi için yemek hazırlıyorsunuz. Malzemeleri hazırlarken bir yandan da gecenin nasıl geçeceğini düşünüyorsunuz. Güvende hissetmek için, yanlış gidebilecek olası her şeye kendinizi hazırlamak…",
-                "firstQuestion": "m_ntıksızdır.",
+                "questionDescription": "On kişi için yemek hazırlıyorsunuz. Malzemeleri hazırlarken bir yandan da gecenin nasıl geçeceğini düşünüyorsunuz. O sırada arkadaşınız arıyor ve…",
+                "firstQuestion": "y_rın saat kaçta buluşacağınızı soruyor.",
                 "firstQuestionAnswer": "a",
-                "secondQuestion": "Yemekte yanlış gidebilecek her şey için mümkün olduğunca hazırlıklı olmak mantıksız mıdır?",
+                "secondQuestion": "Misafirleriniz için yemek mi hazırlıyorsunuz?",
                 "secondQuestionAnswer": "EVET"
             },
             {
-                "questionDescription": "Kütüphanede otururken birinin büyük bir kitap yığınını oda boyunca taşıdığını görüyorsunuz. Bu kişi önündeki sandalyeyi görmüyor ve takılıp düşüyor. Bu kazayla ilgili olarak, biliyorsunuz ki siz…",
-                "firstQuestion": "suçs_zsunuz.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Bu kişinin düşmesinden kısmen siz mi sorumlusunuz?",
+                "questionDescription": "Kütüphanede otururken birinin büyük bir kitap yığınını oda boyunca taşıdığını görüyorsunuz. Bu kişinin kütüphane görevlisi olduğunu fark ediyorsunuz. Yanınıza yaklaştığında…",
+                "firstQuestion": "y_rdım etmeyi teklif ediyorsunuz.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "Evde film mi izliyorsunuz?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
-                "questionDescription": "Gece arabanızla yolda giderken, yolun kenarında yatan koyu renkli bir cisim görüyorsunuz. Bunun bir insan olabileceği aklınızdan geçse de, kontrol etmek için durmuyorsunuz. Bu karar sonucunda…",
-                "firstQuestion": "_yi hissediyorsunuz.",
+                "questionDescription": "Gece arabanızla yolda giderken, yolun kenarında yatan koyu renkli bir cisim görüyorsunuz. Bunun bir insan olabileceği aklınızdan geçse de kontrol etmek için durmuyorsunuz. Uzaklaşırken…",
+                "firstQuestion": "y_ğmur yağmaya başlıyor.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "Araba mı kullanıyorsunuz?",
+                "secondQuestionAnswer": "EVET"
+            },
+            {
+                "questionDescription": "Arkadaşınız emniyet kemerini takmıyor ve siz de takmasını söylemiyorsunuz. Yolda giderken aniden…",
+                "firstQuestion": "c_zdanınızı evde unuttuğunuzu fark ediyorsunuz.",
+                "firstQuestionAnswer": "ü",
+                "secondQuestion": "Cüzdanınız yanınızda mı?",
+                "secondQuestionAnswer": "HAYIR"
+            },
+            {
+                "questionDescription": "Arkadaşınız size gece eve yürümeyi planladığını söylüyor. Onun yalnız yürümesine izin veriyorsunuz. Arabanızla eve dönerken kırmızı ışıkta durduğunuz sırada…",
+                "firstQuestion": "b_nzin almanız gerektiğini fark ediyorsunuz.",
+                "firstQuestionAnswer": "e",
+                "secondQuestion": "Kırmızı ışıkta durdunuz mu?",
+                "secondQuestionAnswer": "EVET"
+            },
+            {
+                "questionDescription": "Hafif bir soğuk algınlığınız var ama yine de işe gitmeye karar veriyorsunuz. Birkaç gün sonra iş arkadaşlarınızdan birinin de hasta olduğunu ve izin aldığını öğreniyorsunuz. İşten çıktıktan sonra arkadaşınızın…",
+                "firstQuestion": "z_yaretine gidiyorsunuz.",
                 "firstQuestionAnswer": "i",
-                "secondQuestion": "Durup kontrol etmeme kararınız hakkında iyi hissediyor musunuz?",
-                "secondQuestionAnswer": "EVET"
-            },
-            {
-                "questionDescription": "Arkadaşınız emniyet kemerini takmıyor ve siz de takmasını söylemiyorsunuz. İkiniz bir araba kazası geçiriyorsunuz ve arkadaşınız yaralanıyor. Biliyorsunuz ki siz…",
-                "firstQuestion": "suçs_zsunuz.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Arkadaşınızın yaralanmasında kısmen sizin mi suçunuz var?",
+                "secondQuestion": "İşten çıktıktan sonra evinize mi gidiyorsunuz?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
-                "questionDescription": "Arkadaşınız size gece eve yürümeyi planladığını söylüyor. Onun yalnız yürümesine izin veriyorsunuz. Bu kararınızdan…",
-                "firstQuestion": "memn_nsunuz.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Arkadaşınızın yalnız başına yürümesine izin verdiğiniz için memnun musunuz?",
-                "secondQuestionAnswer": "EVET"
-            },
-            {
-                "questionDescription": "Hafif bir soğuk algınlığınız var ama yine de işe gitmeye karar veriyorsunuz. İş arkadaşlarınızdan biri aşırı derecede hasta olursa siz…",
-                "firstQuestion": "s_çsuzsunuzdur.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Eğer iş arkadaşlarınızdan biri hastalanırsa, bu muhtemelen sizin suçunuz mu olur?",
-                "secondQuestionAnswer": "HAYIR"
-            },
-            {
-                "questionDescription": "Kaldırımda kırık bir cam parçası görüyorsunuz. Aceleniz var ve onu alıp çöpe atmadınız. Eğer birisi bu kırık cam parçası yüzünden zarar görürse, siz…",
-                "firstQuestion": "s_çsuzsunuzdur.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Birisi kırık cam parçası nedeni ile zarar görürse, bunda sizin bir suçunuz olmayacağını mı düşünüyorsunuz?",
+                "questionDescription": "Kaldırımda kırık bir cam parçası görüyorsunuz. Aceleniz var ve onu alıp çöpe atmadınız. Otobüs durağına geldiğinizde…",
+                "firstQuestion": "k_labalık olduğunu görüyorsunuz ve taksiye biniyorsunuz.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "Taksiye mi bindiniz?",
                 "secondQuestionAnswer": "EVET"
             }
         ]
@@ -139,66 +139,66 @@
         "category": "Mükemmeliyetçilik",
         "questions": [
             {
-                "questionDescription": "Bir projeyi mükemmel hale getirmek için haftalarınızı harcadınız. Teslim ettiğinizde zamanınız olsaydı yapmak isteyebileceğiniz çok küçük düzeltmeler var. Projenizden…",
-                "firstQuestion": "memn_nsunuz.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Projeniz ile ilgili hayal kırıklığı mı hissediyorsunuz?",
+                "questionDescription": "Bir projeyi mükemmel hale getirmek için haftalarınızı harcadınız. Teslim ettiğinizde zamanınız olsaydı yapmak isteyebileceğiniz çok küçük düzeltmeler var. Projenizi teslim ederken…",
+                "firstQuestion": "akşam d_vetli olduğunuz yemekte ne giyeceğinizi düşünüyorsunuz.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "Akşam bir partiye mi davetlisiniz?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
-                "questionDescription": "Haftanın sonunda teslim etmeniz gereken büyük bir projeniz var. İşiniz bitmedi, ancak arkadaşlarınızla dışarı çıkıp bir mola vermeyi düşünüyorsunuz. Bir gece ara vermek…",
-                "firstQuestion": "kab_l edilebilir.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Arkadaşlarınızla çıkmak için çalışmayı bırakmanız normal mi?",
+                "questionDescription": "Haftanın sonunda teslim etmeniz gereken büyük bir projeniz var. İşiniz bitmedi, ancak arkadaşlarınızla dışarı çıkıp bir mola vermeyi düşünüyorsunuz. Gideceğiniz yeri planlarken…",
+                "firstQuestion": "evinizin karşısında yeni bir k_hve dükkânı açıldığını görüyorsunuz.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "Kahve dükkânı evinizin karşısında mı?",
                 "secondQuestionAnswer": "EVET"
             },
             {
-                "questionDescription": "Bir oyunun seçmelerindesiniz. Repliğinizde yer alan çoğu cümleyi doğru söylediniz ama bir iki tanesini karıştırdınız. Seçmelerin...",
-                "firstQuestion": "_yi gittiğini düşünüyorsunuz.",
+                "questionDescription": "Bir oyunun seçmelerindesiniz. Repliğinizde yer alan çoğu cümleyi doğru söylediniz ama bir iki tanesini karıştırdınız. Seçmelerden sonra eve dönerken…",
+                "firstQuestion": "ot_büse biniyorsunuz.",
+                "firstQuestionAnswer": "o",
+                "secondQuestion": "Eve gitmek için taksi mi çağırdınız?",
+                "secondQuestionAnswer": "HAYIR"
+            },
+            {
+                "questionDescription": "Takımınızın kazandığı bir futbol oyunundan sonra eve dönüyorsunuz. Yolda giderken, kaçırdığınız golü düşünüyorsunuz. Bunu düşündüğünüz sırada acıktığınızı fark ediyorsunuz ve…",
+                "firstQuestion": "p_zza yemeğe karar veriyorsunuz.",
                 "firstQuestionAnswer": "i",
-                "secondQuestion": "Seçmeler kötü mü geçti?",
+                "secondQuestion": "Pizza yemeğe mi karar verdiniz?",
+                "secondQuestionAnswer": "EVET"
+            },
+            {
+                "questionDescription": "Sınavdasınız ve öğretmen “zaman doldu!” diye sesleniyor. Yanıtlarınızı iki kez kontrol etme şansınız olmadı. Testi teslim ederken…",
+                "firstQuestion": "okuldan sonra t_yatro provanız olduğunu hatırlıyorsunuz.",
+                "firstQuestionAnswer": "i",
+                "secondQuestion": "Terzide giysi provanız mı var?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
-                "questionDescription": "Takımınızın kazandığı bir futbol oyunundan sonra eve dönüyorsunuz. Yolda giderken, kaçırdığınız gol hakkında düşünüyorsunuz. Genel olarak, performansınızı…",
-                "firstQuestion": "b_şarılı olarak değerlendiriyorsunuz.",
+                "questionDescription": "Prestijli bir staj programına başvuruyorsunuz. Özgeçmişinizi hazırlarken bugüne kadar başarı ile yaptığınız her şeyi yazıyorsunuz. Özgeçmişinizin çıktısını almak için yazıcının yanına gittiğinizde…",
+                "firstQuestion": "yazıcıda k_rtuş kalmadığını görüyorsunuz.",
                 "firstQuestionAnswer": "a",
-                "secondQuestion": "Oyundaki performansınızdan memnun musunuz?",
+                "secondQuestion": "Yazıcının kartuşu mu bitmiş?",
                 "secondQuestionAnswer": "EVET"
             },
             {
-                "questionDescription": "Sınavdasınız ve öğretmen “zaman doldu!” diye sesleniyor. Yanıtlarınızı iki kez kontrol etme şansınız olmadı. Testi teslim ederken, bir şeyin üzerinde tamamen doğru olana kadar uğraşmanın…",
-                "firstQuestion": "m_ntıksız olduğunu düşünüyorsunuz.",
-                "firstQuestionAnswer": "a",
-                "secondQuestion": "Her zaman bir şeyin üzerinde tamamen doğru olana kadar çalışmak mantıklı mıdır?",
+                "questionDescription": "Ödevinizi teslim etmeye gidiyorsunuz. Yürürken, kağıdınızın son sayfasında küçük bir yazım hatası olduğunu fark ediyorsunuz. Ödevinizi teslim ettikten sonra…",
+                "firstQuestion": "k_tap okumak için bahçeye iniyorsunuz.",
+                "firstQuestionAnswer": "i",
+                "secondQuestion": "Ödevinizi teslim ettikten sonra derse mi gittiniz?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
-                "questionDescription": "Prestijli bir staj programına başvuruyorsunuz. Özgeçmişinizi hazırlarken bugüne kadar başarı ile yaptığınız her şeyi yazıyorsunuz. Özgeçmişiniz mükemmel olmasa da güçlü. Bu sizi..",
-                "firstQuestion": "değ_rli hissettiriyor.",
-                "firstQuestionAnswer": "e",
-                "secondQuestion": "Özgeçmişinizden memnun musunuz?",
+                "questionDescription": "Tüm yıl boyunca bir maratona hazırlandınız. 'Derece' alamadınız ama yarış gününde koşuyu tamamladığınız süre kişisel olarak bugüne kadar elde ettiğinizin en iyisi. Yarıştan sonra…",
+                "firstQuestion": "d_ş almak için soyunma odasına gidiyorsunuz.",
+                "firstQuestionAnswer": "u",
+                "secondQuestion": "Maratona mı katıldınız?",
                 "secondQuestionAnswer": "EVET"
             },
             {
-                "questionDescription": "Ödevinizi teslim etmeye gidiyorsunuz. Yürürken, kağıdınızın son sayfasında küçük bir yazım hatası olduğunu fark ediyorsunuz. Bunun için…",
-                "firstQuestion": "üzülm_meniz gerektiğine inanıyorsunuz.",
+                "questionDescription": "Kompozisyon yarışmasına bir deneme gönderdiniz. Üç ay sonra size derece alamadığınızı ancak teselli ödülü kazandığınızı bildiren bir mektup geliyor. Haberi paylaşmak için…",
+                "firstQuestion": "ed_biyat öğretmeninizi arıyorsunuz.",
                 "firstQuestionAnswer": "e",
-                "secondQuestion": "Bu küçük yazım hatasını sorun etmeli misiniz?",
-                "secondQuestionAnswer": "HAYIR"
-            },
-            {
-                "questionDescription": "Tüm yıl boyunca bir maratona hazırlandınız. 'Derece' alamadınız ama yarış gününde koşuyu tamamladığınız süre kişisel olarak bugüne kadar elde ettiğinizin en iyisi. Bundan…",
-                "firstQuestion": "g_rur duyuyorsunuz.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Performansınızdan memnun musunuz?",
-                "secondQuestionAnswer": "EVET"
-            },
-            {
-                "questionDescription": "Kompozisyon yarışmasına bir deneme gönderdiniz. Üç ay sonra size derece alamadığınızı ancak teselli ödülü kazandığınızı bildiren bir mektup geliyor. Böyle bir ödül aldığınız için…",
-                "firstQuestion": "m_tlu hissediyorsunuz.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Sadece teselli ödülü aldığınız için hayal kırklığı mı hissediyorsunuz?",
+                "secondQuestion": "Haberi paylaşmak için arkadaşınızı mı aradınız?",
                 "secondQuestionAnswer": "HAYIR"
             }
         ]
@@ -207,66 +207,66 @@
         "category": "Belirsizliğe Tahammülsüzlük",
         "questions": [
             {
-                "questionDescription": "En yakın arkadaşınızla Avrupa'ya yolculuk yapıyorsunuz. Her gün ne yapacağınıza dair genel bir fikriniz var, ancak önceden her ayrıntıyı planlamadınız. Bu belirsizlik sizi…",
-                "firstQuestion": "hey_canlandırıyor.",
-                "firstQuestionAnswer": "e",
-                "secondQuestion": "Planlarınız konusunda heyecanlı mı hissediyorsunuz?",
+                "questionDescription": "En yakın arkadaşınızla Avrupa'ya yolculuk yapıyorsunuz. Her gün ne yapacağınıza dair genel bir fikriniz var, ancak önceden her ayrıntıyı planlamadınız. Gideceğiniz yere yaklaştığınızda…",
+                "firstQuestion": "y_rtdışında yaşayan kuzeninizi arıyorsunuz.",
+                "firstQuestionAnswer": "u",
+                "secondQuestion": "Avrupa’ya mı gidiyorsunuz?",
                 "secondQuestionAnswer": "EVET"
             },
             {
                 "questionDescription": "Yeni bir araba satın almak üzeresiniz. Tüm seçenekleri değerlendirdikten sonra, hala iki araba arasında kalmış durumdasınız. Son kararınızı satıcıya bildirirken…",
-                "firstQuestion": "sak_n hissediyorsunuz.",
-                "firstQuestionAnswer": "i",
-                "secondQuestion": "Kararınız konusunda endişeli mi hissediyorsunuz?",
+                "firstQuestion": "k_rmızı bir araba dikkatinizi çekiyor.",
+                "firstQuestionAnswer": "ı",
+                "secondQuestion": "Ev mi satın alıyorsunuz?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
-                "questionDescription": "Arkadaşınız için sürpriz bir parti yapmayı planlıyorsunuz. Misafirlere katılım durumlarını bildirmelerini söylemeyi unuttunuz, bu yüzden kaç kişinin geleceğinden emin olamıyorsunuz. Partiyi düşündükçe…",
-                "firstQuestion": "hey_canlanıyorsunuz.",
-                "firstQuestionAnswer": "e",
-                "secondQuestion": "Parti için heyecanlı mısınız?",
+                "questionDescription": "Arkadaşınız için sürpriz bir parti yapmayı planlıyorsunuz. Misafirlere katılım durumlarını bildirmelerini söylemeyi unuttunuz, bu yüzden kaç kişinin geleceğinden emin olamıyorsunuz. Yemekleri hazırlamak için mutfağa girdiğinizde…",
+                "firstQuestion": "evde t_z kalmadığını fark ediyorsunuz.",
+                "firstQuestionAnswer": "u",
+                "secondQuestion": "Arkadaşınız için sürpriz bir parti mi veriyorsunuz?",
                 "secondQuestionAnswer": "EVET"
             },
             {
                 "questionDescription": "Zor bir sınava giriyorsunuz. Sorulardan birinde, doğru cevabı bildiğinizden %90 eminsiniz. Cevap verirken…",
-                "firstQuestion": "kendinize güv_niyorsunuz.",
-                "firstQuestionAnswer": "e",
-                "secondQuestion": "Cevabınız hakkında kaygılı mı hissediyorsunuz?",
+                "firstQuestion": "k_leminizin ucu kırılıyor ve yedek kaleminizi kullanıyorsunuz.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "Arkadaşınızdan kalem istediniz mi?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
                 "questionDescription": "Yaz tatili için nereye gideceğiniz konusunda birden fazla seçenek düşünüyorsunuz. Kararınızı vermeden önce bu olası yerlerle ilgili çok az bilgiye sahipsiniz. Kararınızı verdiğinizde…",
-                "firstQuestion": "m_mnun hissediyorsunuz.",
+                "firstQuestion": "s_yahat acentasını arıyorsunuz ve rezervasyon yaptırıyorsunuz.",
                 "firstQuestionAnswer": "e",
-                "secondQuestion": "Bahar tatilinde nereye gideceğinizle ilgili verdiğiniz karardan memnun musunuz?",
+                "secondQuestion": "Seyahat acentasını aradınız mı?",
                 "secondQuestionAnswer": "EVET"
             },
             {
-                "questionDescription": "Yeni bir şehre taşınıp taşınmamaya karar vermeye çalışıyorsunuz. Bunun büyük bir karar olacağını fark ediyorsunuz. Bu durumun olası tüm sonuçlarını düşünmek…",
-                "firstQuestion": "ger_ksizdir.",
-                "firstQuestionAnswer": "e",
-                "secondQuestion": "Taşınmanın olası tüm sonuçlarını düşünmeniz gerekli mi?",
+                "questionDescription": "Yeni bir şehre taşınıp taşınmamaya karar vermeye çalışıyorsunuz. Bunun büyük bir karar olacağını fark ediyorsunuz. Bunun için…",
+                "firstQuestion": "internetten kir_lık ev ilanlarına bakmaya başlıyorsunuz.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "İnternetten satılık ev ilanlarına mı bakıyorsunuz?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
-                "questionDescription": "Gelecek dönem psikoloji dersi almayı planlıyorsunuz. Ancak, ders dolu olduğu için, bunun yerine tarih dersi için kayıt yaptırıyorsunuz. Planlamadığınız bu dersin büyük ihtimalle…",
-                "firstQuestion": "h_şunuza gideceğini düşünüyorsunuz.",
-                "firstQuestionAnswer": "o",
-                "secondQuestion": "Tarih dersini almayı dört gözle bekliyor musunuz?",
+                "questionDescription": "Gelecek dönem psikoloji dersi almayı planlıyorsunuz. Ancak, ders dolu olduğu için, bunun yerine tarih dersi için kayıt yaptırıyorsunuz. Kayıt sırasında…",
+                "firstQuestion": "ark_daşınızla karşılaşıyorsunuz.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "Tarih dersine mi kayıt yaptırdınız?",
                 "secondQuestionAnswer": "EVET"
             },
             {
                 "questionDescription": "Dağ yürüyüşü yaparken geçmeniz gereken bir asma köprüye geliyorsunuz. Siz köprünün %100 güvenli olduğundan emin değilsiniz ancak arkadaşlarınız bir problem olmayacağını düşünüyor. Köprüden geçerken…",
-                "firstQuestion": "s_kin hissediyorsunuz.",
+                "firstQuestion": "f_rklı bir bitki türü görüyorsunuz.",
                 "firstQuestionAnswer": "a",
-                "secondQuestion": "Köprüden geçerken endişeli misiniz?",
+                "secondQuestion": "Köprüden bisikletle mi geçiyorsunuz?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
-                "questionDescription": "Güz döneminde lisansüstü eğitime başlayacaksınız. İki okulu beğeniyorsunuz ve tam olarak nerede daha mutlu olacağınızdan emin değilsiniz. Son kararınızı verdiğinizde…",
-                "firstQuestion": "memn_n hissediyorsunuz.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Kararınız hakkında iyi hissediyor musunuz?",
+                "questionDescription": "Güz döneminde lisansüstü eğitime başlayacaksınız. İki okulu beğeniyorsunuz ve tam olarak nerede daha mutlu olacağınızdan emin değilsiniz. Son kararınızı vermek için…",
+                "firstQuestion": "d_rs içeriklerini inceliyorsunuz.",
+                "firstQuestionAnswer": "e",
+                "secondQuestion": "Lisansüstü eğitimine mi başlayacaksınız?",
                 "secondQuestionAnswer": "EVET"
             }
         ]
@@ -275,66 +275,66 @@
         "category": "Düşüncelerin Aşırı Önemsenmesi",
         "questions": [
             {
-                "questionDescription": "Sınıfta otururken birdenbire arkadaşınızın kaza geçirdiğine dair istenmeyen bir düşünce aklınıza geliyor. Bu düşünceden dolayı çok sıkıntılı olmanız kazanın gerçekleşme ihtimalini…",
-                "firstQuestion": "değ_ştirmez.",
-                "firstQuestionAnswer": "i",
-                "secondQuestion": "Bu rahatsız edici ve istem dışı düşünce aklınıza geldiği için, arkadaşınızın kaza geçirmesi mümkün müdür?",
-                "secondQuestionAnswer": "HAYIR"
-            },
-            {
-                "questionDescription": "Dini bir törendeyken birden yüksek sesle müstehcen bir şeyler dile getirme isteğiniz oluyor. Yüksek sesle müstehcen bir şeyler söylemek ile sadece böyle bir düşünceye sahip olmak ahlâki olarak…",
-                "firstQuestion": "f_rklıdır.",
-                "firstQuestionAnswer": "a",
-                "secondQuestion": "Din karşıtı şeyler düşünmek, yüksek sesle din karşıtı bir şeyler söylemekten ahlaki olarak farklı mıdır?",
-                "secondQuestionAnswer": "EVET"
-            },
-            {
-                "questionDescription": "Arkadaşınıza bazen değer verdiğiniz insanlara zarar vermekle ilgili istenmeyen düşüncelerin aklınıza geldiğini söylüyorsunuz. Arkadaşınız size bu tarz istenmeyen düşüncelere sahip olmanın…",
-                "firstQuestion": "n_rmal olduğunu söylüyor.",
-                "firstQuestionAnswer": "o",
-                "secondQuestion": "Arkadaşınız sizi böyle bir düşünceye sahip olduğunuz için olumsuz bir şekilde yargılar mı?",
-                "secondQuestionAnswer": "HAYIR"
-            },
-            {
-                "questionDescription": "Ailenizle birlikteyken aniden aklınızdan onlara bağırarak hakaretler yağdırmak geçiyor. Ailenize gerçekten hakaret etmek ile aklınızdan buna yönelik bir düşüncenin geçmesi ahlaki olarak…",
-                "firstQuestion": "f_rklıdır.",
-                "firstQuestionAnswer": "a",
-                "secondQuestion": "Aileniz hakkında kötü bir düşünceye sahip olmak, onlara gerçekten kötü davranmaktan ahlaki olarak farklı mıdır?",
-                "secondQuestionAnswer": "EVET"
-            },
-            {
-                "questionDescription": "Sokakta koşan bir çocuk görüyorsunuz. Birden bu çocuğa vurma düşüncesi aklınıza geliyor. Böyle bir düşüncenin aklınıza gelmesi, bunun gerçekleşme ihtimalini…",
-                "firstQuestion": "d_ğiştirmez.",
-                "firstQuestionAnswer": "e",
-                "secondQuestion": "Aklınızda aniden beliren bu düşünceden etkilenerek çocuğa vurma ihtimaliniz var mı?",
-                "secondQuestionAnswer": "HAYIR"
-            },
-            {
-                "questionDescription": "Yolda bir aile dostunuzla karşılaşıyorsunuz. Onunla konuşurken, ona karşı istenmeyen bir cinsel dürtü hissediyorsunuz. Bu cinsel dürtüyü gerçekleştirme ihtimaliniz…",
-                "firstQuestion": "d_şüktür.",
+                "questionDescription": "Sınıfta otururken birdenbire arkadaşınızın kaza geçirdiğine dair istenmeyen bir düşünce aklınıza geliyor. Bu düşünceden dolayı çok sıkıntılı hissettiğiniz sırada…",
+                "firstQuestion": "koridorda m_zik topluluğundan bir arkadaşınızı görüyorsunuz.",
                 "firstQuestionAnswer": "ü",
-                "secondQuestion": "Bu cinsel dürtüyü gerçekleştirmek üzere davranma ihtimaliniz düşük müdür?",
-                "secondQuestionAnswer": "EVET"
-            },
-            {
-                "questionDescription": "Müdürünüz sizden farklı bir ırktan. Onunla ilk tanıştığınızda beklenmedik bir şekilde aklınıza istenmeyen ırkçı düşünceler gelmeye başladı. Bu tarz istenmeyen düşüncelere sahip olmak…",
-                "firstQuestion": "n_rmaldir.",
-                "firstQuestionAnswer": "o",
-                "secondQuestion": "Bu düşünceye sahip olmak sizin kötü bir insan olduğunuz anlamına mı geliyor?",
+                "secondQuestion": "Bahçede mi oturuyorsunuz?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
-                "questionDescription": "Otobanda araba kullanıyorsunuz ve birden arabanızı bariyerlere çarptığınızı düşünüyorsunuz. Bu düşünce birden ortaya çıktı ve bir kaynağı yok. Bu tarz istenmeyen düşüncelere sahip olmak…",
-                "firstQuestion": "norm_ldir.",
+                "questionDescription": "Dini bir törendeyken birden yüksek sesle müstehcen bir şeyler dile getirme isteğiniz oluyor. O sırada telefonunuza bir mesaj geliyor ve…",
+                "firstQuestion": "k_rgonuzun ev arkadaşınıza teslim edildiğini öğreniyorsunuz.",
                 "firstQuestionAnswer": "a",
-                "secondQuestion": "Bu tarz istenmeyen düşüncelere sahip olmak normal midir?",
+                "secondQuestion": "Kargonuz teslim edildi mi?",
                 "secondQuestionAnswer": "EVET"
             },
             {
-                "questionDescription": "Gecenin bir yarısı uyanıyorsunuz ve yatmadan önce kapıyı kilitleyip kilitlemediğinizi hatırlayamıyorsunuz. Bu düşünce sıklıkla aklınıza geliyor. Bu düşüncenin…",
-                "firstQuestion": "zar_rsız olduğuna inanıyorsunuz.",
+                "questionDescription": "Arkadaşınıza bazen değer verdiğiniz insanlara zarar vermekle ilgili istenmeyen düşüncelerin aklınıza geldiğini söylüyorsunuz. Arkadaşınız size bu tarz istenmeyen düşüncelerle ilgili…",
+                "firstQuestion": "bir f_lm izlediğini söylüyor.",
+                "firstQuestionAnswer": "i",
+                "secondQuestion": "Arkadaşınız size bu tarz istenmeyen düşüncelerle ilgili bir kitap okuduğunu mu söyledi?",
+                "secondQuestionAnswer": "HAYIR"
+            },
+            {
+                "questionDescription": "Ailenizle birlikteyken aniden aklınızdan onlara bağırarak hakaretler yağdırmak geçiyor. O sırada telefonunuza bir mesaj geliyor ve…",
+                "firstQuestion": "t_mir için bıraktığınız arabanızı teslim alabileceğinizi öğreniyorsunuz.",
                 "firstQuestionAnswer": "a",
-                "secondQuestion": "Bu düşünce sizin için korkutucu mu?",
+                "secondQuestion": "Ailenizle mi birliktesiniz?",
+                "secondQuestionAnswer": "EVET"
+            },
+            {
+                "questionDescription": "Sokakta koşan bir çocuk görüyorsunuz. Birden bu çocuğa vurma düşüncesi aklınıza geliyor. Daha sonra başka bir çocuk daha görüyorsunuz ve bu çocuğun…",
+                "firstQuestion": "diğerinin ik_zi olduğunu fark ediyorsunuz.",
+                "firstQuestionAnswer": "i",
+                "secondQuestion": "Üç tane çocuk mu gördünüz?",
+                "secondQuestionAnswer": "HAYIR"
+            },
+            {
+                "questionDescription": "Yolda bir aile dostunuzla karşılaşıyorsunuz. Onunla konuşurken, ona karşı istenmeyen bir cinsel dürtü hissediyorsunuz. Konuşmanız bittiğinde aile dostunuzun yanından ayrılıyorsunuz ve…",
+                "firstQuestion": "ant_ka ürünler satan bir mağazaya giriyorsunuz.",
+                "firstQuestionAnswer": "i",
+                "secondQuestion": "Aile dostunuzla mı karşılaştınız?",
+                "secondQuestionAnswer": "EVET"
+            },
+            {
+                "questionDescription": "Müdürünüz sizden farklı bir ırktan. Onunla koridorda karşılaşıyorsunuz ve beklenmedik bir şekilde aklınıza istenmeyen ırkçı düşünceler geliyor. Odanıza geçtiğinizde bilgisayarınızı açıyorsunuz ve…",
+                "firstQuestion": "yarınki toplantınız için s_num hazırlıyorsunuz.",
+                "firstQuestionAnswer": "u",
+                "secondQuestion": "Toplantınız bugün mü?",
+                "secondQuestionAnswer": "HAYIR"
+            },
+            {
+                "questionDescription": "Evinize yeni bir koltuk almak için mobilya mağazasına gitmek için yola çıkıyorsunuz. Araba kullanırken birden arabanızı bariyerlere çarptığınızı düşünüyorsunuz. Bu düşünce birden ortaya çıktı ve bir kaynağı yok. Mağazaya vardığınızda…",
+                "firstQuestion": "öğle t_tili nedeniyle kapalı olduğunu görüyorsunuz.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "Koltuk almak için mi yola çıktınız?",
+                "secondQuestionAnswer": "EVET"
+            },
+            {
+                "questionDescription": "Gecenin bir yarısı uyanıyorsunuz ve yatmadan önce kapıyı kilitleyip kilitlemediğinizi hatırlayamıyorsunuz. Bu düşünce sıklıkla aklınıza geliyor. O sırada telefonunuza bakıyorsunuz ve…",
+                "firstQuestion": "yarınki t_plantınızın saatinin değiştiğini bildiren e-postayı görüyorsunuz.",
+                "firstQuestionAnswer": "o",
+                "secondQuestion": "Toplantınız iptal mi oldu?",
                 "secondQuestionAnswer": "HAYIR"
             }
         ]
@@ -343,66 +343,66 @@
         "category": "Düşünce Kontrolünün Önemsenmesi",
         "questions": [
             {
-                "questionDescription": "Yeni bir işe başlıyorsunuz. İlk iş gününüzde, aklınıza bir takım istenmeyen düşünceler geliyor. Aklınıza gelen tüm bu istenmeyen düşüncelerin kontrolünü sağlamak…",
-                "firstQuestion": "z_rdur.",
+                "questionDescription": "Yeni bir işe başlıyorsunuz. İlk iş gününüzde, aklınıza bir takım istenmeyen düşünceler geliyor. Bu sırada müdürünüz…",
+                "firstQuestion": "sizi bir iş ark_daşınızla tanıştırmak için odanıza giriyor.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "İlk iş gününüz mü?",
+                "secondQuestionAnswer": "EVET"
+            },
+            {
+                "questionDescription": "Çok beğendiğiniz bir montu almak için mağazaya gidiyorsunuz. Mağazadayken tuhaf ve rahatsız edici düşünceler aniden aklınıza geliyor ve dikkatinizi toplamakta zorlanıyorsunuz. Mağaza görevlisi yanınıza geldiğinde…",
+                "firstQuestion": "size y_ni sezon kazakları da gösteriyor.",
+                "firstQuestionAnswer": "e",
+                "secondQuestion": "Mağazaya pantolon mu almaya gittiniz?",
+                "secondQuestionAnswer": "HAYIR"
+            },
+            {
+                "questionDescription": "Vapurda yolculuk yaparken birden birine yanlışlıkla zarar verme düşüncesi aklınızdan geçiyor. Bu düşünceyi kontrol etmekte zorlanıyorsunuz. Güverteye çıkarken…",
+                "firstQuestion": "m_rtıları beslemek için simit alıyorsunuz.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "Vapurda mı yolculuk ediyorsunuz?",
+                "secondQuestionAnswer": "EVET"
+            },
+            {
+                "questionDescription": "Yeni bir ilişkiye başlıyorsunuz. İlk randevunuzda aklınıza ona bir sürpriz yapmak geliyor. Onun kartpostal koleksiyonu yaptığını biliyorsunuz. Bunun için…",
+                "firstQuestion": "İst_nbul fotoğraflarının olduğu kartpostal seti satın alıyorsunuz.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "İzmir fotoğraflarının olduğu bir kartpostal seti mi satın aldınız?",
+                "secondQuestionAnswer": "HAYIR"
+            },
+            {
+                "questionDescription": "Kütüphanede ders çalışırken çalışma grubunuzdaki bir arkadaşınıza zarar vermek ile ilgili istenmeyen bir düşünce aklınıza geliyor. Grubunuzdaki bir arkadaşınız yemek molasına çıkmak istediğini söylüyor. Yemek molasındayken…",
+                "firstQuestion": "ç_rba sipariş ediyorsunuz.",
                 "firstQuestionAnswer": "o",
-                "secondQuestion": "İstenmeyen düşüncelerinizi kontrol altına almak zor mu?",
+                "secondQuestion": "Yemek molasına mı çıktınız?",
                 "secondQuestionAnswer": "EVET"
             },
             {
-                "questionDescription": "Son zamanlarda dikkatinizi toplamakta zorlanıyorsunuz. Tuhaf ve rahatsız edici düşünceler aniden aklınıza geliyor. Düzgün bir insan olarak nitelendirilebilmek için, düşüncelerinizi kontrol etmek…",
-                "firstQuestion": "ger_ksizdir.",
-                "firstQuestionAnswer": "e",
-                "secondQuestion": "Tuhaf düşüncelerinizi kontrol etme beceriniz, düzgün bir insan olup olmadığınızla ilgili midir?",
+                "questionDescription": "Ders çalışmak için platonik olarak hoşlandığınız bir arkadaşınızın evine gidiyorsunuz. Aniden aklınıza onunla seks yapmakla ilgili istenmeyen bir düşünce geliyor. O sırada arkadaşınız size…",
+                "firstQuestion": "k_hve molası vermeyi öneriyor.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "Arkadaşınız size çay molası vermeyi mi önerdi?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
-                "questionDescription": "Birine yanlışlıkla zarar verme düşüncesi aklınızdan geçiyor. Bu düşünceyi kontrol etmekte zorlanıyorsunuz. Bu tür düşünceleri kontrol etmekte zorlandığınız için cezalandırılma ihtimaliniz…",
-                "firstQuestion": "d_şüktür.",
-                "firstQuestionAnswer": "ü",
-                "secondQuestion": "Birine yanlışlıkla zarar vermek ile ilgili düşüncelerinizi kontrol edemediğiniz için cezalandırılma ihtimaliniz düşük müdür?",
+                "questionDescription": "Gece geç saatte yatakta uzanıyorsunuz. Yoğun bir gün geçirdiniz ve aklınızdan kontrol etmekte zorlandığınız pek çok düşünce geçiyor. Balkona çıkıyorsunuz ve…",
+                "firstQuestion": "ar_banız için evinizin yakınında bir park yerinin boşaldığını görüyorsunuz.",
+                "firstQuestionAnswer": "a",
+                "secondQuestion": "Balkona mı çıktınız?",
                 "secondQuestionAnswer": "EVET"
             },
             {
-                "questionDescription": "Yeni bir ilişkiye başlıyorsunuz. İlk randevunuzda, aklınıza, bir takım istenmeyen, rahatsız edici düşünceler geliyor. Bu düşüncelerin nasıl kontrol edileceğini öğrenmek…",
-                "firstQuestion": "g_rekmez.",
-                "firstQuestionAnswer": "e",
-                "secondQuestion": "İstenmeyen düşüncelerinizi kontrol etmeniz gerekli midir?",
+                "questionDescription": "Kalabalık bir sinemada film izliyorsunuz. Beklenmedik bir şekilde, aklınızdan diğer izleyicilerden biriyle ilgili istenmeyen bir düşünce geçiyor. Film arası geldiğinde…",
+                "firstQuestion": "patlamış m_sır almak için dışarı çıkıyorsunuz.",
+                "firstQuestionAnswer": "ı",
+                "secondQuestion": "Su almaya mı çıktınız?",
                 "secondQuestionAnswer": "HAYIR"
             },
             {
-                "questionDescription": "Kütüphanede ders çalışırken çalışma grubunuzdaki bir arkadaşınıza zarar vermek ile ilgili istenmeyen bir düşünce aklınıza geliyor. İstenmeyen düşüncelerinizi kontrolünüz altına alamadığınız için kötü bir olay olma ihtimali…",
-                "firstQuestion": "düş_ktür.",
-                "firstQuestionAnswer": "ü",
-                "secondQuestion": "İstenmeyen düşüncelerinizi kontrol edemediğiniz için kötü bir olay olma ihtimali düşük müdür?",
-                "secondQuestionAnswer": "EVET"
-            },
-            {
-                "questionDescription": "Ders çalışmak için platonik olarak hoşlandığınız bir arkadaşınızın evine gidiyorsunuz. Aniden aklınıza onunla seks yapmakla ilgili istenmeyen bir düşünce geliyor. Kendinizi kontrol edebilmek için, bu düşüncenin durdurulması…",
-                "firstQuestion": "g_reksizdir.",
-                "firstQuestionAnswer": "e",
-                "secondQuestion": "Kendinizi kontrol edebilmek için arkadaşınızla seks yapmakla ilgili istenmeyen düşüncenizi durdurmanız gerekiyor mu?",
-                "secondQuestionAnswer": "HAYIR"
-            },
-            {
-                "questionDescription": "Gece geç saatte yatakta uzanıyorsunuz. Yoğun bir gün geçirdiniz ve aklınızdan pek çok düşünce geçiyor. Eğer düşüncelerinizi kontrol edemiyorsanız bu durum…",
-                "firstQuestion": "kab_l edilebilir.",
-                "firstQuestionAnswer": "u",
-                "secondQuestion": "Düşüncelerinizi kontrol edemiyor olmanız anlaşılabilir bir şey midir?",
-                "secondQuestionAnswer": "EVET"
-            },
-            {
-                "questionDescription": "Kalabalık bir sinemada film izliyorsunuz. Beklenmedik bir şekilde, aklınızdan diğer izleyicilerden biriyle ilgili istenmeyen bir düşünce geçiyor. Bu düşüncenin filmden aldığınız keyif üzerinde bir etkisi…",
-                "firstQuestion": "y_ktur.",
+                "questionDescription": "Bir hocanız hakkında bazı istenmeyen düşünceleriniz var. Tarih dersi sırasında sürekli onu düşündüğünüzü fark ediyorsunuz ve bunu kontrol edemiyorsunuz. Bu sırada arkadaşınız sizden…",
+                "firstQuestion": "ek_nomi dersi notlarınızı istiyor.",
                 "firstQuestionAnswer": "o",
-                "secondQuestion": "İstenmeyen bu düşünce, filmden alacağınız keyfi etkiler mi?",
-                "secondQuestionAnswer": "HAYIR"
-            },
-            {
-                "questionDescription": "Bir hocanız hakkında cinsel içerikli bazı istenmeyen düşünceleriniz var. Ders sırasında sürekli onu düşündüğünüzü fark ediyorsunuz. Bu düşünceleri kontrol edemezseniz, başınızın belaya girme ihtimali…",
-                "firstQuestion": "düş_ktür.",
-                "firstQuestionAnswer": "ü",
-                "secondQuestion": "Hocanız hakkında bu istenmeyen düşüncelerden kurtulamazsanız başınızın belaya girme ihtimali düşük müdür?",
+                "secondQuestion": "Tarih dersinde misiniz?",
                 "secondQuestionAnswer": "EVET"
             }
         ]
