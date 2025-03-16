@@ -10,6 +10,7 @@ import SwiftUI
 struct TrialItem {
     let ocdImage: CTImage
     let neutralImage: CTImage
-    let direction: ArrowDirection
+    let direction: Direction
     let position: Position
+    let imageType: ArrowImageType
 }

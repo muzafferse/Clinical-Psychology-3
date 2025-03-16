@@ -17,19 +17,9 @@ struct SelectionView: View {
     var body: some View {
         let trial = viewModel.currentTrial
         ZStack {
-            VStack(spacing: 32) {
-                if trial.position == .topNeutral {
-                    arrowFrameView(direction: trial.direction)
-                    
-                    Spacer()
-                        .frame(width: 256, height: 192)
-                } else {
-                    Spacer()
-                        .frame(width: 256, height: 192)
-                    
-                    arrowFrameView(direction: trial.direction)
-                }
-            }
+            arrowFrameView(direction: trial.direction,
+                           imageType: trial.imageType,
+                           position: trial.position)
             
             selectionButtonsView()
         }
@@ -44,11 +34,37 @@ struct SelectionView: View {
         }
     }
     
-    private func arrowFrameView(direction: ArrowDirection) -> some View {
-        ZStack {
-            Spacer().frame(width: 256, height: 192)
-            VStack {
-                if direction == .right {
+    private func arrowFrameView(direction: Direction,
+                                imageType: ArrowImageType,
+                                position: Position) -> some View {
+        
+        let isArrowOnTop: Bool = {
+            switch position {
+            case .top:
+                return imageType == .neutral
+            case .bottom:
+                return imageType == .ocd
+            }
+        }()
+        
+        return VStack {
+            let isRight = direction == .right
+            if isArrowOnTop {
+                if isRight {
+                    Image.rightArrowIcon
+                        .regularTextStyle(size: 32)
+                } else {
+                    Image.leftArrowIcon
+                        .regularTextStyle(size: 32)
+                }
+                
+                Spacer()
+                    .frame(width: 256, height: 192)
+            } else {
+                Spacer()
+                    .frame(width: 256, height: 192)
+                
+                if isRight {
                     Image.rightArrowIcon
                         .regularTextStyle(size: 32)
                 } else {
@@ -83,7 +99,7 @@ struct SelectionView: View {
         }
     }
     
-    private func handleSelection(givenAnswer: ArrowDirection) {
+    private func handleSelection(givenAnswer: Direction) {
         isButtonDisabled = true
         if let startTime = startTime {
             let responseTime = Int(Date().timeIntervalSince(startTime) * 1000)

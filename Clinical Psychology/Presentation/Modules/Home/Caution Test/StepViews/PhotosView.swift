@@ -13,7 +13,7 @@ struct PhotosView: View {
     var body: some View {
         let trial = viewModel.currentTrial
         VStack(spacing: 32) {
-            if trial.position == .topNeutral {
+            if trial.position == .top {
                 trial.neutralImage.image
                     .resizable()
                     .scaledToFit()

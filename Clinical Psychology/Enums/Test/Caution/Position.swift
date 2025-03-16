@@ -8,15 +8,15 @@
 import Foundation
 
 enum Position: String, CaseIterable {
-    case topNeutral = "Alt"
-    case bottomNeutral = "Üst"
+    case top = "Alt"
+    case bottom = "Üst"
     
     var reversed: Position {
         switch self {
-        case .topNeutral:
-            return .bottomNeutral
-        case .bottomNeutral:
-            return .topNeutral
+        case .top:
+            return .bottom
+        case .bottom:
+            return .top
         }
     }
 }

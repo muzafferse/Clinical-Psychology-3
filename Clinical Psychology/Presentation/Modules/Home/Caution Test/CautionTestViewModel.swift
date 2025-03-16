@@ -18,10 +18,8 @@ class CautionTestViewModel: ObservableObject {
     }
     
     init() {
-        for _ in 0..<2 {
-            let shuffledTrials = createTrials().shuffled()
-            totalTrials.append(contentsOf: shuffledTrials)
-        }
+        let shuffledTrials = createTrials().shuffled()
+        totalTrials.append(contentsOf: shuffledTrials)
     }
     
     private func createTrials() -> [TrialItem] {
@@ -31,12 +29,15 @@ class CautionTestViewModel: ObservableObject {
         
         for i in 0..<12 {
             for position in Position.allCases {
-                for direction in ArrowDirection.allCases {
-                    let trialItem = TrialItem(ocdImage: ocdPhotos[i],
-                                              neutralImage: neutralPhotos[i],
-                                              direction: direction,
-                                              position: position)
-                    trialPairs.append(trialItem)
+                for direction in Direction.allCases {
+                    for arrowType in ArrowImageType.allCases {
+                        let trialItem = TrialItem(ocdImage: ocdPhotos[i],
+                                                  neutralImage: neutralPhotos[i],
+                                                  direction: direction,
+                                                  position: position,
+                                                  imageType: arrowType)
+                        trialPairs.append(trialItem)
+                    }
                 }
             }
         }
@@ -48,11 +49,11 @@ class CautionTestViewModel: ObservableObject {
 extension CautionTestViewModel {
     func initializeCurrentQuestionData() {
         currentQuestionData = CautionTestData(timeStamp: Date().toDateAndTime(),
-                                              imagePairNo: imagePairNumber(),
+                                              imagePairNo: getPairNumber(),
                                               neutralPhotoPosition: currentTrial.position.rawValue,
                                               ocdPhotoPosition: currentTrial.position.reversed.rawValue,
                                               arrowDirection: currentTrial.direction.rawValue,
-                                              arrowPosition: currentTrial.position.rawValue,
+                                              arrowPosition: getArrowPosition(),
                                               givenAnswer: "",
                                               isAnswerCorrect: "",
                                               responseTime: 0)
@@ -68,11 +69,19 @@ extension CautionTestViewModel {
         }
     }
     
-    private func imagePairNumber() -> String {
+    private func getPairNumber() -> String {
         guard let numberItem = currentTrial.ocdImage.name.split(separator: "-").last else {
             return ""
         }
         return "Çift" + numberItem + "_Müdahale"
+    }
+    
+    private func getArrowPosition() -> String {
+        if currentTrial.imageType == .neutral {
+            return currentTrial.position.rawValue
+        } else {
+            return currentTrial.position.reversed.rawValue
+        }
     }
     
     private func getFeedback(_ givenAnswer: String) -> String {
