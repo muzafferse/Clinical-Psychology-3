@@ -31,7 +31,7 @@ struct HomeTabRootView: View {
                 // MARK: - Starting Test
                 #if CLINIC3A
                 self.appState.homeNavigation.append(HomeNavDestination.cautionTest)
-                #elseif CLINIC1B
+                #elseif CLINIC3B
                 self.appState.homeNavigation.append(HomeNavDestination.interpretationTest)
                 #endif
             } label: {

@@ -33,7 +33,7 @@ struct LaunchView: View {
         #if CLINIC3A
         .splash
         #elseif CLINIC3B
-        .splash1B
+        .splash3B
         #endif
     }
 }
