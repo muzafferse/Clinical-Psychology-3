@@ -163,7 +163,7 @@
                 "questionDescription": "Takımınızın kazandığı bir futbol oyunundan sonra eve dönüyorsunuz. Yolda giderken, kaçırdığınız golü düşünüyorsunuz. Bunu düşündüğünüz sırada acıktığınızı fark ediyorsunuz ve…",
                 "firstQuestion": "p_zza yemeğe karar veriyorsunuz.",
                 "firstQuestionAnswer": "i",
-                "secondQuestion": "Pizza yemeğe mi karar verdiniz?",
+                "secondQuestion": "Pizza yemeye mi karar verdiniz?",
                 "secondQuestionAnswer": "EVET"
             },
             {
